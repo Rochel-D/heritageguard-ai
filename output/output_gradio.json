@@ -1,0 +1,176 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "analysis": {
+    "problems": [
+      {
+        "issue": "Extensive structural deterioration and collapse of large portions of the Church of Our Lady of Mount Carmel ruins and adjoining walls.",
+        "evidence": "A civil engineer's status report says most of the structure and adjoining walls have collapsed and debris lies around the structure."
+      },
+      {
+        "issue": "Vegetation and tree growth destabilising the cracked facade and contributing to the deterioration of the remaining structure.",
+        "evidence": "Tree growth has destabilised the cracked facade, which is also endangered by neglect and natural elements."
+      },
+      {
+        "issue": "Prolonged neglect of the site leading to concerns over the loss of architectural and cultural heritage despite government notification.",
+        "evidence": "The site has suffered neglect since 1950, and the government notified the site as a protected heritage monument in December 2020, but protected status alone has not prevented further deterioration."
+      }
+    ],
+    "stakeholders": [
+      "Local residents",
+      "Mount Carmel Conservation Association",
+      "Government authorities",
+      "Civil engineer"
+    ],
+    "priorities": [
+      "Immediate structural intervention and preservation of the remaining ruins and facade",
+      "Clearing vegetation and debris causing destabilisation",
+      "Development of green space around the site and potential integration into the wider heritage tourism circuit"
+    ]
+  },
+  "policies": [
+    {
+      "area": "Conservation funding models",
+      "recommendation": "Implement a hybrid funding model combining government heritage grants and private donations for site stabilisation and upkeep.",
+      "justification": "The church has suffered extensive structural deterioration since 1950 and requires immediate structural intervention, but the article names no funding schemes.",
+      "evidence_from_article": [
+        "The site has suffered neglect since 1950",
+        "The church needs immediate structural intervention"
+      ],
+      "assumptions": [
+        "Government heritage grants can be allocated through the Department of Archives or Archaeology",
+        "Private donations can be sourced through cultural preservation trusts"
+      ],
+      "expected_benefits": [
+        "Secures necessary capital for urgent stabilisation",
+        "Reduces complete reliance on state budgets"
+      ],
+      "trade_offs": [
+        "Private donors may demand commercialisation rights that conflict with heritage values",
+        "Government grant allocations may involve lengthy bureaucratic delays"
+      ],
+      "implementation_challenges": [
+        "Coordinating between state authorities and private entities",
+        "Establishing transparent accounting mechanisms"
+      ],
+      "success_indicators": [
+        "Securing initial capital for debris clearance",
+        "Timely disbursement of funds for structural support"
+      ],
+      "evidence_to_verify": [
+        "Availability of specific government heritage grants for protected monuments notified in December 2020",
+        "Willingness of private donors to contribute to the Mount Carmel site"
+      ]
+    },
+    {
+      "area": "Community-led stewardship",
+      "recommendation": "Establish a formal Memorandum of Understanding between government authorities and the Mount Carmel Conservation Association to outline joint site care and monitoring responsibilities.",
+      "justification": "Local residents and the Mount Carmel Conservation Association have already called for urgent conservation measures and held meetings to protect the site.",
+      "evidence_from_article": [
+        "Local residents and the Mount Carmel Conservation Association have called for urgent conservation measures",
+        "The MCCAC has pursued a long campaign for the site's heritage status and recently held a meeting"
+      ],
+      "assumptions": [
+        "Government authorities are legally permitted to delegate monitoring roles to local associations"
+      ],
+      "expected_benefits": [
+        "Enables continuous ground-level monitoring by locals",
+        "Fosters community ownership of the Indo-Portuguese Mannerist style ruins"
+      ],
+      "trade_offs": [
+        "Volunteer fatigue may lead to inconsistent monitoring over time",
+        "Potential friction between local expectations and official conservation standards"
+      ],
+      "implementation_challenges": [
+        "Defining clear legal boundaries for volunteer activities versus professional restoration",
+        "Maintaining sustained volunteer engagement"
+      ],
+      "success_indicators": [
+        "Regular submission of community-led site condition reports",
+        "Successful local coordination of prayer and Mass sit-outs as proposed by the MCCAC secretary"
+      ],
+      "evidence_to_verify": [
+        "Willingness of government authorities to enter into formal co-management agreements with local associations"
+      ]
+    },
+    {
+      "area": "Heritage-tourism integration",
+      "recommendation": "Develop a controlled visitor management plan before linking the site to the wider heritage tourism circuit located approximately 7 km from Old Goa.",
+      "justification": "The site is located barely 7 km from Old Goa and proposals highlight connecting it to the heritage circuit, but the unstable structures require strict visitor safety controls.",
+      "evidence_from_article": [
+        "The site is barely 7 km from Old Goa and could be linked to the heritage circuit",
+        "Tree growth has destabilised the cracked facade, which is also endangered by neglect and natural elements"
+      ],
+      "assumptions": [
+        "Tourists visiting Old Goa are willing to travel 7 km to visit the Chimbel site"
+      ],
+      "expected_benefits": [
+        "Increases cultural tourism visibility for Chimbel",
+        "Generates local interest and potential revenue for area rejuvenation"
+      ],
+      "trade_offs": [
+        "Increased foot traffic could accelerate damage to fragile remaining walls",
+        "Tourism infrastructure might disrupt the tranquil spot of the fast-urbanising landscape"
+      ],
+      "implementation_challenges": [
+        "Managing vehicular access and parking near the ruins",
+        "Preventing tourists from entering unsafe collapsed zones"
+      ],
+      "success_indicators": [
+        "Installation of safe viewing platforms and informational signage",
+        "Positive visitor volume tracking without structural incidents"
+      ],
+      "evidence_to_verify": [
+        "Feasibility of routing public transport from Old Goa to the Mount Carmel site"
+      ]
+    },
+    {
+      "area": "Urban-planning buffers",
+      "recommendation": "Enforce strict planning controls and a designated green space buffer around the ruins to protect the site from fast-urbanising pressures.",
+      "justification": "The ruins currently lie in a tranquil spot of a fast-urbanising landscape, and proposals consider developing green space around the site for rejuvenation.",
+      "evidence_from_article": [
+        "The ruins lie in a tranquil spot of a fast-urbanising landscape",
+        "A proposal considers structural preservation of the ruins, with some green space around for rejuvenation"
+      ],
+      "assumptions": [
+        "Municipal planning authorities have the jurisdiction to zone buffer areas around heritage-notified monuments"
+      ],
+      "expected_benefits": [
+        "Protects the remaining facade and boundary wall from encroaching modern constructions",
+        "Preserves the historical context of the 1749-1750 complex"
+      ],
+      "trade_offs": [
+        "Imposes land-use restrictions on adjacent private landowners",
+        "Limits commercial development potential in the immediate vicinity"
+      ],
+      "implementation_challenges": [
+        "Resist pressures from local real estate development",
+        "Acquiring or designating land for the proposed green space"
+      ],
+      "success_indicators": [
+        "Adoption of a municipal buffer zone notification around the property",
+        "Absence of unauthorized construction within the buffer perimeter"
+      ],
+      "evidence_to_verify": [
+        "Current land ownership status of the parcels surrounding the church ruins"
+      ]
+    }
+  ],
+  "review_flags": [
+    {
+      "policy": "Implement a hybrid funding model combining government heritage grants and private donations for site stabilisation and upkeep.",
+      "concern": "Assumes government heritage grants can be allocated through the Department of Archives or Archaeology and that private donations can be sourced through cultural preservation trusts, which are not mentioned in the evidence."
+    },
+    {
+      "policy": "Establish a formal Memorandum of Understanding between government authorities and the Mount Carmel Conservation Association to outline joint site care and monitoring responsibilities.",
+      "concern": "Assumes government authorities are legally permitted to delegate monitoring roles to local associations, which is an external claim not present in the evidence."
+    },
+    {
+      "policy": "Develop a controlled visitor management plan before linking the site to the wider heritage tourism circuit located approximately 7 km from Old Goa.",
+      "concern": "Assumes tourists visiting Old Goa are willing to travel 7 km to visit the Chimbel site, which is a general claim not stated in the evidence."
+    },
+    {
+      "policy": "Enforce strict planning controls and a designated green space buffer around the ruins to protect the site from fast-urbanising pressures.",
+      "concern": "Assumes municipal planning authorities have the jurisdiction to zone buffer areas around heritage-notified monuments, which is an external claim not in the evidence."
+    }
+  ]
+}

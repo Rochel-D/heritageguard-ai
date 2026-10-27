@@ -27,3 +27,7 @@ If a model name fails, set `GEMINI_MODEL` to a name shown in AI Studio.
 
 ## Limits
 No web browsing or citation checking. Impacts are expectations, not measured results. The automated reviewer is lenient, so outputs need manual checking. `data/article_facts.json` was written from a scan; check the [verify] items.
+
+## Interface
+Gradio page (`gradio_app.py`), launched from Colab with `build_ui().launch(share=True)`.
+![Gradio interface](output/GRADIO_1.png), (output/GRADIO_2.png), (output/GRADIO_3.png), (output/GRADIO_5.png), (output/GRADIO_5.png)

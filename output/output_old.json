@@ -1,0 +1,155 @@
+{
+  "model": "gemini-3.5-flash",
+  "analysis": {
+    "problems": [
+      {
+        "issue": "Structural collapse and physical neglect of the heritage ruins",
+        "evidence": "Civil engineer status report indicates that most of the structure and adjoining walls have collapsed, debris lies around, and the property appears abandoned."
+      },
+      {
+        "issue": "Instability of the facade from vegetation and natural elements",
+        "evidence": "Tree growth has destabilized the cracked facade, which continues to be endangered by neglect and weather."
+      },
+      {
+        "issue": "Inability of heritage notification alone to stop decay",
+        "evidence": "The government notified the site as a protected heritage monument in December 2020, but protected status alone has not prevented ongoing deterioration."
+      }
+    ],
+    "stakeholders": [
+      "Government of Goa",
+      "Mount Carmel Conservation Association (MCCAC)",
+      "Local residents and villagers of Chimbel",
+      "Civil engineer Jennifer Lewis e Kamat",
+      "Tourists and researchers"
+    ],
+    "priorities": [
+      "Obtaining a qualified structural assessment to inform structural preservation interventions",
+      "Stabilizing the cracked facade and remaining boundary walls",
+      "Developing green space around the site for rejuvenation",
+      "Exploring potential linkages to the heritage tourism circuit 7 km from Old Goa"
+    ]
+  },
+  "policies": [
+    {
+      "area": "Conservation funding models",
+      "recommendation": "Commission a comprehensive structural assessment by qualified engineers to establish baseline costs prior to creating a dedicated funding framework for ruin stabilization and site upkeep.",
+      "justification": "In accordance with conservation guidelines, physical restoration or stabilization interventions should not proceed without a prior professional structural assessment, especially given the extensive collapse noted by civil engineer Jennifer Lewis e Kamat.",
+      "evidence_from_article": [
+        "A civil engineer's status report says most of the structure and adjoining walls have collapsed and debris lies around the structure.",
+        "The civil engineer, Jennifer Lewis e Kamat, says the property seems abandoned and the church needs immediate structural intervention.",
+        "Government first notified the extensive complex as a heritage site on 12 December 2020."
+      ],
+      "assumptions": [
+        "State heritage funding mechanisms can be activated once formal technical assessments quantify structural requirements."
+      ],
+      "expected_benefits": [
+        "Prevents unsafe or inappropriate physical interventions on fragile ruins.",
+        "Provides clear financial estimates for long-term stabilization and maintenance."
+      ],
+      "trade_offs": [
+        "Immediate physical work is paused while technical assessments are completed."
+      ],
+      "implementation_challenges": [
+        "Procuring qualified heritage conservation engineers to perform detailed structural risk mapping."
+      ],
+      "success_indicators": [
+        "Completion of an official structural engineering status report.",
+        "Establishment of a phased conservation budget based on assessment findings."
+      ],
+      "evidence_to_verify": [
+        "Exact government financial allocations currently assigned to notified protected monuments in Goa."
+      ]
+    },
+    {
+      "area": "Community-led stewardship",
+      "recommendation": "Develop a formal collaborative stewardship agreement between state heritage authorities and the Mount Carmel Conservation Association for site monitoring and green space care.",
+      "justification": "Local community groups have consistently advocated for site protection and can provide continuous on-ground monitoring and maintain planned green spaces for local use.",
+      "evidence_from_article": [
+        "The MCCAC has pursued a long campaign for the site's heritage status and recently held a meeting.",
+        "The MCCAC secretary says conserving the facade and boundary wall would give villagers a sit-out for prayers and Masses.",
+        "A proposal considers structural preservation of the ruins, with some green space around for rejuvenation."
+      ],
+      "assumptions": [
+        "Local community volunteers possess the capacity to conduct routine non-structural site maintenance under professional oversight."
+      ],
+      "expected_benefits": [
+        "Enhances local oversight to deter dumping, vandalism, or neglect.",
+        "Fosters community ownership while providing a usable sit-out for residents."
+      ],
+      "trade_offs": [
+        "Requires ongoing administrative coordination between government officials and volunteer association representatives."
+      ],
+      "implementation_challenges": [
+        "Establishing clear legal terms defining community maintenance boundaries without compromising statutory heritage authority."
+      ],
+      "success_indicators": [
+        "Formalization of a stewardship memorandum between local authorities and MCCAC.",
+        "Sustained maintenance of designated green spaces and regular site monitoring logs."
+      ],
+      "evidence_to_verify": [
+        "The vice president of the Mount Carmel Conservation Association (MCCAC) says a plan to conserve and beautify the site would help draw tourists. [verify]"
+      ]
+    },
+    {
+      "area": "Heritage-tourism integration",
+      "recommendation": "Design a low-impact heritage route connecting Chimbel to Old Goa that highlights the unique socio-religious and architectural history of the site while controlling visitor footfall.",
+      "justification": "The site is located 7 km from Old Goa and possesses distinct historical features, making it suitable for heritage linkages that do not overwhelm fragile structural remains.",
+      "evidence_from_article": [
+        "The site is barely 7 km from Old Goa and could be linked to the heritage circuit.",
+        "The place was once a base for the Tertiary Carmelites, who ran Goa's first mental health care hospital, a home for the destitute and other socio-religious activities there.",
+        "The church ruins were built around 1749-1750 by the Tertiary Carmelites, in Indo-Portuguese Mannerist style."
+      ],
+      "assumptions": [
+        "Heritage tourists visiting Old Goa would extend visits to secondary regional sites if clear interpretation and access exist."
+      ],
+      "expected_benefits": [
+        "Spreads heritage tourism benefits beyond Old Goa to surrounding communities.",
+        "Increases public appreciation of Goa's early medical and social care history."
+      ],
+      "trade_offs": [
+        "Increased visitor movement may disrupt the tranquil rural environment of the local neighborhood."
+      ],
+      "implementation_challenges": [
+        "Regulating tourist flow to ensure unstable structural ruins are not accessed or damaged."
+      ],
+      "success_indicators": [
+        "Integration of Chimbel into official regional heritage tourism maps.",
+        "Installation of educational signage explaining the history of the Tertiary Carmelites."
+      ],
+      "evidence_to_verify": [
+        "The relocation of the destitute home, because a building near the ruins was in poor condition, hastened the decay of the ruins. [verify]"
+      ]
+    },
+    {
+      "area": "Urban-planning buffers",
+      "recommendation": "Establish statutory planning buffer zones around the heritage property boundaries to regulate real estate development and preserve the site's tranquil setting.",
+      "justification": "The ruins are located in a fast-urbanising landscape, requiring proactive land-use planning controls to prevent surrounding construction from encroaching on or destabilizing the monument.",
+      "evidence_from_article": [
+        "The ruins lie in a tranquil spot of a fast-urbanising landscape.",
+        "Government first notified the extensive complex as a heritage site on 12 December 2020.",
+        "Tree growth has destabilised the cracked facade, which is also endangered by neglect and natural elements."
+      ],
+      "assumptions": [
+        "Local urban planning bodies hold authority to enforce special zoning restrictions adjacent to notified heritage sites."
+      ],
+      "expected_benefits": [
+        "Protects the visual integrity, micro-environment, and quiet setting of the historic ruins.",
+        "Mitigates structural risks caused by heavy urban construction in close proximity."
+      ],
+      "trade_offs": [
+        "Restricts private land development opportunities within the designated buffer area."
+      ],
+      "implementation_challenges": [
+        "Resolving potential land-use conflicts with surrounding property owners in an expanding urban area."
+      ],
+      "success_indicators": [
+        "Incorporation of a defined heritage buffer zone into the regional town planning master plan.",
+        "Enforcement of height and density restrictions surrounding the site."
+      ],
+      "evidence_to_verify": [
+        "The site gained prominence after an earlier Times of India report and a study by two researchers on its architectural and historical dimensions. [verify]"
+      ]
+    }
+  ],
+  "review_flags": []
+}

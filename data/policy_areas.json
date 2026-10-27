@@ -1,6 +1,18 @@
 [
-  {"area": "Conservation funding models", "question": "How should expert assessment, stabilisation and long-term upkeep of the ruins be funded?"},
-  {"area": "Community-led stewardship", "question": "How can local groups such as the conservation association take a structured role in care and monitoring?"},
-  {"area": "Heritage-tourism integration", "question": "How could the site join the Old Goa heritage circuit without harming the monument?"},
-  {"area": "Urban-planning buffers", "question": "What planning controls could protect the site and its surroundings from urbanisation pressure?"}
+  {
+    "area": "Conservation funding models",
+    "question": "Compare two or three possible funding models for expert assessment, stabilisation and upkeep (the article names none, so label each as an assumption to verify), then recommend one."
+  },
+  {
+    "area": "Community-led stewardship",
+    "question": "How can local groups such as the conservation association take a structured role in care and monitoring?"
+  },
+  {
+    "area": "Heritage-tourism integration",
+    "question": "How could the site join the Old Goa heritage circuit without harming the monument?"
+  },
+  {
+    "area": "Urban-planning buffers",
+    "question": "What planning controls could protect the site and its surroundings from urbanisation pressure?"
+  }
 ]
